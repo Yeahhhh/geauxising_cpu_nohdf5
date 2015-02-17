@@ -1,4 +1,3 @@
-#include "COPYING"
 #include "sim.h"
 
 

@@ -1,5 +1,3 @@
-#include "COPYING"
-
 #include <stdlib.h>
 #include <math.h>
 #include "sim.h"

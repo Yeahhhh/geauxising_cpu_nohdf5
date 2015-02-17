@@ -1,5 +1,3 @@
-#include "COPYING"
-
 #ifndef BIT32_H
 #define BIT32_H
 

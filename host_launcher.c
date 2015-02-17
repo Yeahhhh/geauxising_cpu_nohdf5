@@ -1,5 +1,3 @@
-#include "COPYING"
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
