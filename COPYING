@@ -1,0 +1,19 @@
+/*
+   parallel tempering 3D Edwards-Anderson model simulation
+   A CUDA/C implementation for NVIDIA GPUs
+
+   DEVELOPERS:
+   Ye Fang <yfang11 AT lsu.edu>, LSU ECE/CCT
+   Sheng Feng <sfeng4 AT lsu.edu>, LSU Physics
+   Ka-Ming Tam <kmtam AT phys.lsu.edu>, LSU Physics
+
+
+   See LICENSE.txt for our copyright announcements
+
+
+   Y. Fang, S. Feng, K-M. Tam
+   B. Thakur, Z. Yun, A. Papke, S. Hall, C. Thomasson
+   J. Moreno, J. Ramanujam, M. Jarrel
+*/
+
+
