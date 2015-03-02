@@ -11,8 +11,6 @@
 //#include "hdf5.h"
 
 
-void mpiprocess (float beta_low, float beta_high, char *mydir);
-
 
 // ./a.out [-l beta_low] [-u beta_high] [-o output]
 int
@@ -77,8 +75,6 @@ main (int argc, char **argv)
   //printf ("host_main: hello\n");
 
   host_launcher (beta_low, beta_high, mydir, node, gpu);
-  //thread_parent (beta_low, beta_high, mydir, node);
-  //mpiprocess (beta_low, beta_high, mydir);
 
   //mylocaltime = localtime (&mytime);
   //printf ("finished simulation\t %s", asctime (mylocaltime));
