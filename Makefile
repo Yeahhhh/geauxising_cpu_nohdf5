@@ -7,6 +7,7 @@ CC = gcc -O3
 #CC = icc -openmp -O3
 #CC = clang -O3
 
+
 #pollycc = clang -Xclang -load -Xclang /home/yfang11/compiler/llvm/3.4.2+polly/llvm_obj/lib/LLVMPolly.so
 #CC = $(pollycc) -O3 -mllvm -polly -mllvm -polly-vectorizer=polly
 
